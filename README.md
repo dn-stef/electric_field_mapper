@@ -16,9 +16,6 @@ An interactive 2D electric field and equipotential visualizer built with Python,
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -195,9 +192,9 @@ matplotlib>=3.3.0
 
 ## About the Author 🃏
 
-I'm a physics graduate with a focus on data analysis and Python programming. This project was built to expand my skills in GUI development and data preprocessing while creating something practical and applicable to real-world workflows. 
+I'm a physics graduate specializing in computational physics and Python development. 
 
-I work with Python, data visualization, and building tools that simplify complex tasks.  This tool combines physics-oriented thinking with programming to make data exploration more accessible.  
+This project demonstrates the application of numerical methods and scientific visualization to classical electromagnetism, translating Coulomb's Law and field theory into an interactive educational tool.
 
 
 ---
