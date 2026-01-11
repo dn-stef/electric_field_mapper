@@ -3,7 +3,7 @@
 An interactive 2D electric field and equipotential visualizer built with Python, NumPy, and Matplotlib. Click to place positive and negative charges and see the resulting electric field lines and equipotential surfaces in real-time.
 
 ![Electric Field Simulator](screenshot.png)
-*Example visualization showing field lines (black arrows) and equipotential lines (green contours)*
+*Example visualization showing field lines (black arrows) and equipotential lines (purple contours)*
 
 ---
 
@@ -28,7 +28,7 @@ An interactive 2D electric field and equipotential visualizer built with Python,
   - Blue circles with `+` symbols for positive charges
   - Red circles with `−` symbols for negative charges
   - Black arrows showing electric field direction
-  - Green contour lines for equipotential surfaces
+  - Purple contour lines for equipotential surfaces
 - **Physics-accurate**: Based on Coulomb's Law and the gradient relationship between field and potential
 
 ---
@@ -97,7 +97,7 @@ python main.py
 
 1. **Select charge type**: Use the radio buttons on the left to choose "Positive" or "Negative"
 2. **Place charges**: Click anywhere on the plot to add a charge
-3. **Observe**: Watch the electric field lines (black arrows) and equipotential contours (green lines) update in real-time
+3. **Observe**: Watch the electric field lines (black arrows) and equipotential contours (purple lines) update in real-time
 
 ### Tips
 
