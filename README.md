@@ -2,8 +2,9 @@
 
 An interactive 2D electric field and equipotential visualizer built with Python, NumPy, and Matplotlib. Click to place positive and negative charges and see the resulting electric field lines and equipotential surfaces in real-time.
 
-![Electric Field Simulator](screenshot.png)
-*Example visualization showing field lines (black arrows) and equipotential lines (purple contours)*
+<img src="images/app_screenshot.jpg" width="75%">
+
+*Example visualization showing field lines (black arrows) originating from positive charges and terminating at negative charges, with equipotential lines (purple contours) surrounding them.*
 
 ---
 
@@ -79,7 +80,7 @@ cd electric_field_mapper
 pip install numpy matplotlib
 ```
 
-Or using requirements.txt (if provided):
+Or using requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
@@ -118,7 +119,8 @@ electric_field_mapper/
 ├── visualizer.py              # Matplotlib plotting and rendering
 ├── interactive_handler.py     # Mouse clicks, button callbacks, event handling
 ├── .gitignore                 # Git ignore file
-└── README.md                  # This file
+├── README.md                  # This file
+└── images                     # Example visualization used in this README
 ```
 
 ### Module Descriptions
